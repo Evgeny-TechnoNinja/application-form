@@ -52,7 +52,7 @@ if (!$error) {
     unset($_SESSION['name']);
     unset($_SESSION['phone']);
 //перенаправление на страницу
-    header('Refresh: 7; ../index.html');
+    header('Refresh: 7; ../index.php');
 }
 //Если имя  пусто, то уведомления тоже пустое.    
 if($name == ""){

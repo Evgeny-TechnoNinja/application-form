@@ -1,4 +1,4 @@
-<?php include 'php/checker-sender.php'?>
+<?php include 'script/checker-sender.php'?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
